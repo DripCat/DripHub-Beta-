@@ -1,0 +1,12 @@
+if game.PlaceId == 270499015 then -- British ilitary cademy
+
+elseif game.PlaceId == 1962086868 then -- Tower of hell
+
+elseif game.PlaceId == 891852901 then -- Greenville
+
+elseif game.PlaceId == 142823291 then -- Murder mystery
+
+elseif game.PlaceId == 2788229376 then -- Dahood
+else
+    game.Players.LocalPlayer:Kick("DripHub does not support this game")
+end
