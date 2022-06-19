@@ -3,7 +3,7 @@ if game.PlaceId == 270499015 then -- British ilitary cademy
 elseif game.PlaceId == 1962086868 then -- Tower of hell
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Tower%20of%20hell", true))()
 elseif game.PlaceId == 891852901 then -- Greenville
-    loadstring(game:HttpGet("", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Greenville", true))()
 elseif game.PlaceId == 142823291 then -- Murder mystery
     loadstring(game:HttpGet("", true))()
 elseif game.PlaceId == 2788229376 then -- Dahood
