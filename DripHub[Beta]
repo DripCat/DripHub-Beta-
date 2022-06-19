@@ -6,8 +6,6 @@ elseif game.PlaceId == 891852901 then -- Greenville
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Greenville", true))()
 elseif game.PlaceId == 142823291 then -- Murder mystery
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Murder%20mystery", true))()
-elseif game.PlaceId == 2788229376 then -- Dahood
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Dahood", true))()
 else
     game.Players.LocalPlayer:Kick("DripHub does not support this game")
 end
