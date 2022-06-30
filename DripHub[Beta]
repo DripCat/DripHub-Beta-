@@ -9,7 +9,7 @@ elseif game.PlaceId == 142823291 then -- Murder mystery
 elseif game.PlaceId == 155615604 then --Prison life
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Prison%20Life", true))()
 elseif game.PlaceId == 286090429 then --Arsenal
-    loadstring(game:HttpGet("
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Arsenal", true))()
 https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/DripHub%20Arsenal", true))()
 else
     game.Players.LocalPlayer:Kick("DripHub does not support this game")
